@@ -1,0 +1,18 @@
+p{
+  font-family: "montserrat";
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.model{
+  font-size: 40px;
+  font-weight: bold;
+
+}
+.order{
+  margin-top: 5px;
+}
+.touch{
+  text-decoration: underline;
+}
